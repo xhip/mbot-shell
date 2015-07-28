@@ -4,6 +4,7 @@ https://github.com/ticklemynausea/mbot
 - dns: dns resolver
 - google: google search
 - lastfm: lastfm integration
+- mac: mac to vendor lookup
 - rss: rss feed
   - requires feedparser
 - twitter: twitter integration
