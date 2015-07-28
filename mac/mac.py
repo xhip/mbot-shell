@@ -13,7 +13,7 @@ from mylib import print_console
 
 # Manual
 def man():
-	# ~:python mac.py <nick> <mac address>
+	# python mac.py <nick> <mac address>
 	print_console('Usage: !mac <mac address>')
 	exit(-1)
 
